@@ -1,7 +1,7 @@
-# Portfólio - May Martins
+# Portifólio - May Martins
 
 ## Sobre o projeto
-Este projeto é um portfólio pessoal desenvolvido com o objetivo de apresentar minhas habilidades, experiências e projetos na área de desenvolvimento.
+Este projeto é um portifólio pessoal desenvolvido com o objetivo de apresentar minhas habilidades, experiências e projetos na área de desenvolvimento.
 
 O site contém seções como:
 - Apresentação pessoal
